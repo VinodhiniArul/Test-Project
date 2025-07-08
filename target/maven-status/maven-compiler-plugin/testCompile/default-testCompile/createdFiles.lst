@@ -1,0 +1,6 @@
+facebook\utils\Utility.class
+Fb\Hooks\Hooks.class
+Fb\Runner\TestRunner.class
+Fb\stepdefinition\AccountCreation.class
+facebook\objectRepository\AccountCreationLocator.class
+com\Fb\Hooks\Variables.class
