@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Build-Jdk-Spec: 17
 Main-Class: com.demo.FbAcc
+=======
+Built-By: selva
+Build-Jdk: 17.0.4.1
+>>>>>>> e5cf935ba3f0c99ab80c9f1acdff2d22487e2cad
 Created-By: Maven Integration for Eclipse
 

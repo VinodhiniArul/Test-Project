@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>FbAcc</name>
+=======
+	<name>test</name>
+>>>>>>> e5cf935ba3f0c99ab80c9f1acdff2d22487e2cad
 	<comment></comment>
 	<projects>
 	</projects>
